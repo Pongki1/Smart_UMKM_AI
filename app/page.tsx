@@ -2,7 +2,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { supabase } from '@/lib/supabase';
 import type { User } from '@supabase/supabase-js';
-import { Activity, Boxes, Building2, ChartNoAxesCombined, CircleDollarSign, ClipboardList, Cloud, LogOut, Package, Plus, RefreshCw, ShoppingCart, Truck, Wifi, WifiOff, Sparkles, Store, Users, FileSpreadsheet, Camera, QrCode, ScanLine, X, Download } from 'lucide-react';
+import { Activity, Boxes, Building2, CarFront, ChartNoAxesCombined, CircleDollarSign, ClipboardList, Cloud, LogOut, Package, Plus, RefreshCw, ShoppingCart, Truck, Wifi, WifiOff, Sparkles, Store, Users, FileSpreadsheet, Camera, QrCode, ScanLine, X, Download } from 'lucide-react';
 import { QRCodeSVG } from 'qrcode.react';
 import AutomotiveCatalog from '@/components/AutomotiveCatalog';
 
